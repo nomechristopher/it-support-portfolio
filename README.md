@@ -1,30 +1,72 @@
-# IT Support Portfolio – Christopher Michael Lynn
+🎯 Objective
 
-## Project 1: Malware Removal & System Optimization
-- Diagnosed slow system performance on Windows PC
-- Installed and configured antivirus and anti-malware tools
-- Removed threats and optimized startup programs
-- Result: Improved speed and reduced system lag
+To obtain an entry-level IT Support role where I can apply my troubleshooting skills, continue learning, and contribute to maintaining reliable and efficient systems.
 
-## Project 2: Printer Installation & Troubleshooting
-- Installed printers via USB and wireless connections
-- Configured drivers and resolved connectivity issues
-- Troubleshot print queue and device errors
-- Result: Fully functional printing systems
+🛠️ Skills Demonstrated
 
-## Project 3: Antivirus Deployment for Small Businesses
-- Installed antivirus software for local businesses
-- Improved system security and stability
-- Advised users on safe computing practices
-- Result: Reduced risk of malware infections
+Windows OS Troubleshooting
 
-## Project 4: PC Hardware Upgrades
-- Installed RAM and storage upgrades
-- Ensured compatibility and tested system performance
-- Result: Increased system speed and capacity
+Network Connectivity Issues (IP, DHCP, DNS)
 
-## Skills
-- Windows OS troubleshooting
-- Hardware installation and upgrades
-- Software installation and configuration
-- Strong communication and problem-solving
+Hardware & Software Diagnostics
+
+Task Manager & System Performance Analysis
+
+Command Line Tools (ipconfig, basic commands)
+
+Technical Problem Solving
+
+Customer Support & Communication
+
+🔧 IT Support Scenarios
+📡 Wi-Fi “No Internet, Secured” Issue
+
+Diagnosed APIPA (169.254.x.x) IP issue
+
+Renewed IP configuration using Command Prompt
+
+Restored network connectivity
+
+➡️ View Project
+
+🐢 Slow PC Performance (High Memory Usage)
+
+Identified excessive RAM usage via Task Manager
+
+Diagnosed Chrome as the primary resource consumer
+
+Improved performance by reducing active processes
+
+➡️ View Project
+
+📚 Currently Learning
+
+Google IT Support Professional Certificate
+
+Networking fundamentals (TCP/IP, DNS, DHCP)
+
+System administration basics
+
+IT troubleshooting methodologies
+
+🚀 Future Goals
+
+Earn CompTIA A+ Certification
+
+Gain hands-on experience in a professional IT environment
+
+Expand portfolio with advanced troubleshooting scenarios
+
+Learn scripting (PowerShell) for automation
+
+📫 Contact
+
+Email: nomechristopher@gmail.com
+
+Phone: 912-293-1187
+
+GitHub: https://github.com/nomechristopher
+
+💡 About This Portfolio
+
+This portfolio is continuously updated with new projects and scenarios to reflect my growing skills in IT support and system troubleshooting.
